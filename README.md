@@ -1,1 +1,1 @@
-# geniea.github.com
+# geniea.github.io
